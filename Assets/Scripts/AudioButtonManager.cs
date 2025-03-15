@@ -307,7 +307,7 @@ public class MusicMixer : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Combinación no válida o no encontrada: " + selectedCombination);
+            Debug.LogError("Combination not founded " + selectedCombination);
         }
     }
 
