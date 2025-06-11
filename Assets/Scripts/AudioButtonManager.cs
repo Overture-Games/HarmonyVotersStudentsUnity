@@ -22,6 +22,8 @@ public class MusicMixer : MonoBehaviour
     private bool isPlaying = false;
     private string selectedCombination = "";
 
+    private Dictionary<string, Color[]> _originalButtonColors = new Dictionary<string, Color[]>();
+
     private string[] audioUrlsInstruments = new string[]
  {
     "https://raw.githubusercontent.com/Overture-Games/HarmonyVotersStudentsUnity/main/Assets/Music/MixInstruments/AAA.wav",
@@ -167,7 +169,7 @@ public class MusicMixer : MonoBehaviour
 
     void Start()
     {
-        string gameMode = SessionManager.Instance.GetGameMode();
+        string gameMode = SessionManager.Instance ? SessionManager.Instance.GetGameMode() : "Harmony";
 
         audioSources = new Dictionary<string, AudioSource>
         {
@@ -206,6 +208,8 @@ public class MusicMixer : MonoBehaviour
         doneButton.onClick.AddListener(OnDoneClicked);
 
         drumsSource.clip = gameMode == "Harmony" ? defaultDrumsHarmony : defaultDrumsInstruments;
+
+        StoreOriginalButtonColors();
     }
 
     void AssignButtonListeners(string instrument, Button[] buttons)
@@ -228,16 +232,28 @@ public class MusicMixer : MonoBehaviour
         }
     }
 
+    void StoreOriginalButtonColors()
+    {
+        _originalButtonColors = new Dictionary<string, Color[]>();
+        foreach (var instrument in buttonGroups.Keys)
+        {
+            Color[] colors = new Color[buttonGroups[instrument].Length];
+            for (int i = 0; i < buttonGroups[instrument].Length; i++)
+            {
+                colors[i] = buttonGroups[instrument][i].GetComponent<Image>().color;
+            }
+            _originalButtonColors[instrument] = colors;
+        }
+    }
+
     void HighlightSelectedButton(string instrument)
     {
         if (buttonGroups.ContainsKey(instrument))
         {
             for (int i = 0; i < buttonGroups[instrument].Length; i++)
             {
-                var colors = buttonGroups[instrument][i].colors;
-                colors.normalColor = (i == selectedIndices[instrument]) ? Color.yellow : Color.white;
-                buttonGroups[instrument][i].colors = colors;
-                buttonGroups[instrument][i].GetComponent<Image>().color = colors.normalColor;
+                var image = buttonGroups[instrument][i].GetComponent<Image>();
+                image.color = (i == selectedIndices[instrument]) ? Color.white : _originalButtonColors[instrument][i];
             }
         }
     }

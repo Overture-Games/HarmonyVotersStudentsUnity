@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 397de953450c824469ead80c40f4067c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 355574371934791385
+    second: Harmonidome Elements_0
+  - first:
+      213: -7424661674738898571
+    second: Harmonidome Elements_1
+  - first:
+      213: -1995261032958093225
+    second: Harmonidome Elements_2
+  - first:
+      213: -8006301091994688445
+    second: Harmonidome Elements_3
+  - first:
+      213: -4884834445645190572
+    second: Harmonidome Elements_4
+  - first:
+      213: -5747920373049685321
+    second: Harmonidome Elements_5
+  - first:
+      213: 4858768549445928179
+    second: Harmonidome Elements_6
+  - first:
+      213: -2347473999140255951
+    second: Harmonidome Elements_7
+  - first:
+      213: -1798605070740141228
+    second: Harmonidome Elements_8
+  - first:
+      213: -7838347015470303560
+    second: Harmonidome Elements_9
+  - first:
+      213: -4918899906831106982
+    second: Harmonidome Elements_10
+  - first:
+      213: 8420951819458905471
+    second: Harmonidome Elements_11
+  - first:
+      213: 1620572379353303227
+    second: Harmonidome Elements_12
+  - first:
+      213: 3769258138980491314
+    second: Harmonidome Elements_13
+  - first:
+      213: 5543025360619168538
+    second: Harmonidome Elements_14
+  - first:
+      213: 6678420894305323984
+    second: Harmonidome Elements_15
+  - first:
+      213: -1835133398455333956
+    second: Harmonidome Elements_16
+  - first:
+      213: -272047154607480804
+    second: Harmonidome Elements_17
+  - first:
+      213: 2047161415162564580
+    second: Harmonidome Elements_18
+  - first:
+      213: 1703075135781587174
+    second: Harmonidome Elements_19
+  - first:
+      213: 1632687650700896846
+    second: Harmonidome Elements_20
+  - first:
+      213: -8878420139818409572
+    second: Harmonidome Elements_21
+  - first:
+      213: 4915510163390843551
+    second: Harmonidome Elements_22
+  - first:
+      213: -5171436519750139681
+    second: Harmonidome Elements_23
+  - first:
+      213: -8718142925036624260
+    second: Harmonidome Elements_24
+  - first:
+      213: -415840400237129369
+    second: Harmonidome Elements_25
+  - first:
+      213: -376780891782183563
+    second: Harmonidome Elements_26
+  - first:
+      213: -6301338104367577816
+    second: Harmonidome Elements_27
+  - first:
+      213: -4699371515895053279
+    second: Harmonidome Elements_28
+  - first:
+      213: -5319137931543105303
+    second: Harmonidome Elements_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harmonidome Elements_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1660
+        width: 1124
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e762e1014fe400800000000000000
+      internalID: 355574371934791385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_1
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1665
+        width: 248
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792bbb5b8d46f890800000000000000
+      internalID: -7424661674738898571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_2
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1654
+        width: 250
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7589a5079a86f44e0800000000000000
+      internalID: -1995261032958093225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_3
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 693
+        width: 178
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 184, z: 0, w: 184}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344a5d67397e3e090800000000000000
+      internalID: -8006301091994688445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_4
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 699
+        width: 147
+        height: 1294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 184, z: 0, w: 184}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae9b0e3f4953cb0800000000000000
+      internalID: -4884834445645190572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_5
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 699
+        width: 147
+        height: 1294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 184, z: 0, w: 184}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba842fdfd84b30b0800000000000000
+      internalID: -5747920373049685321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1367
+        width: 162
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4809bb040dd6340800000000000000
+      internalID: 4858768549445928179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1366
+        width: 215
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13787c1d5d81c6fd0800000000000000
+      internalID: -2347473999140255951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1348
+        width: 200
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4153b7321a07e0800000000000000
+      internalID: -1798605070740141228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1360
+        width: 222
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b636a43be8983390800000000000000
+      internalID: -7838347015470303560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1349
+        width: 207
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c31af989e8cbbb0800000000000000
+      internalID: -4918899906831106982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_11
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1247
+        width: 273
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75078d401b3dd470800000000000000
+      internalID: 8420951819458905471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_12
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1245
+        width: 237
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c92c2efd6d7610800000000000000
+      internalID: 1620572379353303227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1064
+        width: 206
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230aea89e481f4430800000000000000
+      internalID: 3769258138980491314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1074
+        width: 225
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13efa08238ccec40800000000000000
+      internalID: 5543025360619168538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1060
+        width: 212
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8d996b648eac50800000000000000
+      internalID: 6678420894305323984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1053
+        width: 213
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4d95a5eb4886e0800000000000000
+      internalID: -1835133398455333956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_17
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1065
+        width: 215
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102773ed8e793cf0800000000000000
+      internalID: -272047154607480804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 844
+        width: 252
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef86a4f57af86c10800000000000000
+      internalID: 2047161415162564580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 837
+        width: 252
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8cf0e00d982a710800000000000000
+      internalID: 1703075135781587174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 507
+        width: 243
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 64, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aa13994c878a610800000000000000
+      internalID: 1632687650700896846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 526
+        width: 243
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9123773ce389c480800000000000000
+      internalID: -8878420139818409572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 512
+        width: 266
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 64, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acbba3376673440800000000000000
+      internalID: 4915510163390843551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 531
+        width: 266
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08fcd72ed5b38b0800000000000000
+      internalID: -5171436519750139681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_24
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 65
+        width: 638
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c766b1c433fe20780800000000000000
+      internalID: -8718142925036624260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_25
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 65
+        width: 638
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611c94fb53aa3af0800000000000000
+      internalID: -415840400237129369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 190
+        width: 243
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 64, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750b2376c765caf0800000000000000
+      internalID: -376780891782183563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 209
+        width: 243
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825898741662d88a0800000000000000
+      internalID: -6301338104367577816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 195
+        width: 266
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 64, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248c7f218a78ceb0800000000000000
+      internalID: -4699371515895053279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Elements_29
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 214
+        width: 266
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e03117bb30ae26b0800000000000000
+      internalID: -5319137931543105303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2791d51a3f9f5d4db2df5897e7fc5cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Harmonidome Elements_0: 355574371934791385
+      Harmonidome Elements_1: -7424661674738898571
+      Harmonidome Elements_10: -4918899906831106982
+      Harmonidome Elements_11: 8420951819458905471
+      Harmonidome Elements_12: 1620572379353303227
+      Harmonidome Elements_13: 3769258138980491314
+      Harmonidome Elements_14: 5543025360619168538
+      Harmonidome Elements_15: 6678420894305323984
+      Harmonidome Elements_16: -1835133398455333956
+      Harmonidome Elements_17: -272047154607480804
+      Harmonidome Elements_18: 2047161415162564580
+      Harmonidome Elements_19: 1703075135781587174
+      Harmonidome Elements_2: -1995261032958093225
+      Harmonidome Elements_20: 1632687650700896846
+      Harmonidome Elements_21: -8878420139818409572
+      Harmonidome Elements_22: 4915510163390843551
+      Harmonidome Elements_23: -5171436519750139681
+      Harmonidome Elements_24: -8718142925036624260
+      Harmonidome Elements_25: -415840400237129369
+      Harmonidome Elements_26: -376780891782183563
+      Harmonidome Elements_27: -6301338104367577816
+      Harmonidome Elements_28: -4699371515895053279
+      Harmonidome Elements_29: -5319137931543105303
+      Harmonidome Elements_3: -8006301091994688445
+      Harmonidome Elements_4: -4884834445645190572
+      Harmonidome Elements_5: -5747920373049685321
+      Harmonidome Elements_6: 4858768549445928179
+      Harmonidome Elements_7: -2347473999140255951
+      Harmonidome Elements_8: -1798605070740141228
+      Harmonidome Elements_9: -7838347015470303560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

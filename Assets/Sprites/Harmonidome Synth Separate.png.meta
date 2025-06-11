@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 98d4a661c62008c46afdfdc65a16c717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9101469395943572423
+    second: Harmonidome Synth Separate_0
+  - first:
+      213: -3970790246386884891
+    second: Harmonidome Synth Separate_1
+  - first:
+      213: 3725159080859560857
+    second: Harmonidome Synth Separate_2
+  - first:
+      213: -134223774289800837
+    second: Harmonidome Synth Separate_3
+  - first:
+      213: -7117217250583448433
+    second: Harmonidome Synth Separate_4
+  - first:
+      213: 8971488684287429465
+    second: Harmonidome Synth Separate_5
+  - first:
+      213: 2143676817427017772
+    second: Harmonidome Synth Separate_6
+  - first:
+      213: -1679511622661620174
+    second: Harmonidome Synth Separate_7
+  - first:
+      213: 5302531195202621820
+    second: Harmonidome Synth Separate_8
+  - first:
+      213: 573644251170587905
+    second: Harmonidome Synth Separate_9
+  - first:
+      213: 4003013301871445408
+    second: Harmonidome Synth Separate_10
+  - first:
+      213: -488971451858748842
+    second: Harmonidome Synth Separate_11
+  - first:
+      213: 4732705443918467130
+    second: Harmonidome Synth Separate_12
+  - first:
+      213: -710642576766144534
+    second: Harmonidome Synth Separate_13
+  - first:
+      213: -8829460639091972304
+    second: Harmonidome Synth Separate_14
+  - first:
+      213: -1400205907611107642
+    second: Harmonidome Synth Separate_15
+  - first:
+      213: 1926360660203193974
+    second: Harmonidome Synth Separate_16
+  - first:
+      213: -2174111120776496904
+    second: Harmonidome Synth Separate_17
+  - first:
+      213: 183989889239226165
+    second: Harmonidome Synth Separate_18
+  - first:
+      213: -7343261091890774703
+    second: Harmonidome Synth Separate_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 919
+        width: 835
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb1b85ec511b180800000000000000
+      internalID: -9101469395943572423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_1
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1312
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee168e1f4be4e8c0800000000000000
+      internalID: -3970790246386884891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1220
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b6472827c62b330800000000000000
+      internalID: 3725159080859560857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1138
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715b0d3034232ef0800000000000000
+      internalID: -134223774289800837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 787
+        width: 214
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f0b58e909a3d90800000000000000
+      internalID: -7117217250583448433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 580
+        width: 231
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8365ec61218c70800000000000000
+      internalID: 8971488684287429465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 696
+        width: 83
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203aff25bedfbd10800000000000000
+      internalID: 2143676817427017772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 835
+        width: 128
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3d1fd31d21b8e0800000000000000
+      internalID: -1679511622661620174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_8
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 706
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71da7c2700669940800000000000000
+      internalID: 5302531195202621820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 590
+        width: 205
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105c77a386ef5f700800000000000000
+      internalID: 573644251170587905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 642
+        width: 134
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50631a36f8d8730800000000000000
+      internalID: 4003013301871445408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 420
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af6a22e03d639f0800000000000000
+      internalID: -488971451858748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 422
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30515bb682fda140800000000000000
+      internalID: 4732705443918467130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 420
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefe591775a4326f0800000000000000
+      internalID: -710642576766144534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 420
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03721a84454777580800000000000000
+      internalID: -8829460639091972304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 266
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebf684528719ce0800000000000000
+      internalID: -1400205907611107642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 274
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c2bc60decbba10800000000000000
+      internalID: 1926360660203193974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 275
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f3ef547104d1e0800000000000000
+      internalID: -2174111120776496904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 283
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371e5654d9ad8200800000000000000
+      internalID: 183989889239226165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Synth Separate_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 553
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d37e471fe771a90800000000000000
+      internalID: -7343261091890774703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Harmonidome Synth Separate_0: -9101469395943572423
+      Harmonidome Synth Separate_1: -3970790246386884891
+      Harmonidome Synth Separate_10: 4003013301871445408
+      Harmonidome Synth Separate_11: -488971451858748842
+      Harmonidome Synth Separate_12: 4732705443918467130
+      Harmonidome Synth Separate_13: -710642576766144534
+      Harmonidome Synth Separate_14: -8829460639091972304
+      Harmonidome Synth Separate_15: -1400205907611107642
+      Harmonidome Synth Separate_16: 1926360660203193974
+      Harmonidome Synth Separate_17: -2174111120776496904
+      Harmonidome Synth Separate_18: 183989889239226165
+      Harmonidome Synth Separate_19: -7343261091890774703
+      Harmonidome Synth Separate_2: 3725159080859560857
+      Harmonidome Synth Separate_3: -134223774289800837
+      Harmonidome Synth Separate_4: -7117217250583448433
+      Harmonidome Synth Separate_5: 8971488684287429465
+      Harmonidome Synth Separate_6: 2143676817427017772
+      Harmonidome Synth Separate_7: -1679511622661620174
+      Harmonidome Synth Separate_8: 5302531195202621820
+      Harmonidome Synth Separate_9: 573644251170587905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

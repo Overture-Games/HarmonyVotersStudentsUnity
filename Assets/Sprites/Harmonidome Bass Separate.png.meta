@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1f5056f8aa7a916419b4376fb8621ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4980285636252041333
+    second: Harmonidome Bass Separate_0
+  - first:
+      213: -7435218627755676552
+    second: Harmonidome Bass Separate_1
+  - first:
+      213: -8495258694357661977
+    second: Harmonidome Bass Separate_2
+  - first:
+      213: -2026452070920992829
+    second: Harmonidome Bass Separate_3
+  - first:
+      213: -6004829022405689663
+    second: Harmonidome Bass Separate_4
+  - first:
+      213: 5570086920553683564
+    second: Harmonidome Bass Separate_5
+  - first:
+      213: 8572653997096581399
+    second: Harmonidome Bass Separate_6
+  - first:
+      213: 8641397433023123891
+    second: Harmonidome Bass Separate_7
+  - first:
+      213: 8457508728866653801
+    second: Harmonidome Bass Separate_8
+  - first:
+      213: 7291948712314664691
+    second: Harmonidome Bass Separate_9
+  - first:
+      213: -1801453669377586811
+    second: Harmonidome Bass Separate_10
+  - first:
+      213: -6582791894459933345
+    second: Harmonidome Bass Separate_11
+  - first:
+      213: -5630062693217609402
+    second: Harmonidome Bass Separate_12
+  - first:
+      213: 9161956600033201413
+    second: Harmonidome Bass Separate_13
+  - first:
+      213: 3567513898225846881
+    second: Harmonidome Bass Separate_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 262
+        width: 377
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57088c446678d1540800000000000000
+      internalID: 4980285636252041333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1103
+        width: 200
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c61413d0cc0d890800000000000000
+      internalID: -7435218627755676552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1122
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e643cf2a37ca1a80800000000000000
+      internalID: -8495258694357661977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1127
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7466ef39890e3e0800000000000000
+      internalID: -2026452070920992829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_4
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1152
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7d8ea1df8aaca0800000000000000
+      internalID: -6004829022405689663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 991
+        width: 158
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad6abea8cec4d40800000000000000
+      internalID: 5570086920553683564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_6
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1072
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7193647f36f28f670800000000000000
+      internalID: 8572653997096581399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 986
+        width: 156
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d0566e296ce770800000000000000
+      internalID: 8641397433023123891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 996
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ccdc016b1f5570800000000000000
+      internalID: 8457508728866653801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 906
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6f1ed28b4323560800000000000000
+      internalID: 7291948712314664691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 907
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cc65ae63fff6e0800000000000000
+      internalID: -1801453669377586811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_11
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 913
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d156c26a935a4a0800000000000000
+      internalID: -6582791894459933345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 435
+        width: 273
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649d5935fcffdd1b0800000000000000
+      internalID: -5630062693217609402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 269
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d46805cfec52f70800000000000000
+      internalID: 9161956600033201413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Bass Separate_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 150
+        width: 185
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a450b2dfa528130800000000000000
+      internalID: 3567513898225846881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Harmonidome Bass Separate_0: 4980285636252041333
+      Harmonidome Bass Separate_1: -7435218627755676552
+      Harmonidome Bass Separate_10: -1801453669377586811
+      Harmonidome Bass Separate_11: -6582791894459933345
+      Harmonidome Bass Separate_12: -5630062693217609402
+      Harmonidome Bass Separate_13: 9161956600033201413
+      Harmonidome Bass Separate_14: 3567513898225846881
+      Harmonidome Bass Separate_2: -8495258694357661977
+      Harmonidome Bass Separate_3: -2026452070920992829
+      Harmonidome Bass Separate_4: -6004829022405689663
+      Harmonidome Bass Separate_5: 5570086920553683564
+      Harmonidome Bass Separate_6: 8572653997096581399
+      Harmonidome Bass Separate_7: 8641397433023123891
+      Harmonidome Bass Separate_8: 8457508728866653801
+      Harmonidome Bass Separate_9: 7291948712314664691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

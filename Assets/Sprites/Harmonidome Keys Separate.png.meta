@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: fa51ceb1125454149a7b5ccb95bb0176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2150094743930344679
+    second: Harmonidome Keys Separate_0
+  - first:
+      213: 3954998732735789279
+    second: Harmonidome Keys Separate_1
+  - first:
+      213: -6425728599666614502
+    second: Harmonidome Keys Separate_2
+  - first:
+      213: -8991664511265547022
+    second: Harmonidome Keys Separate_3
+  - first:
+      213: -6713977700885945349
+    second: Harmonidome Keys Separate_4
+  - first:
+      213: -5946697485088069051
+    second: Harmonidome Keys Separate_5
+  - first:
+      213: 4342173488598994824
+    second: Harmonidome Keys Separate_6
+  - first:
+      213: 2465050861940442689
+    second: Harmonidome Keys Separate_7
+  - first:
+      213: 6093305659164826346
+    second: Harmonidome Keys Separate_8
+  - first:
+      213: 3168705000293734150
+    second: Harmonidome Keys Separate_9
+  - first:
+      213: -1225793472239624442
+    second: Harmonidome Keys Separate_10
+  - first:
+      213: -5331946283888034909
+    second: Harmonidome Keys Separate_11
+  - first:
+      213: 5005070733168558202
+    second: Harmonidome Keys Separate_12
+  - first:
+      213: 2601018419930414075
+    second: Harmonidome Keys Separate_13
+  - first:
+      213: -6215055475082862224
+    second: Harmonidome Keys Separate_14
+  - first:
+      213: 8607721383456336121
+    second: Harmonidome Keys Separate_15
+  - first:
+      213: 3113865646239457299
+    second: Harmonidome Keys Separate_16
+  - first:
+      213: 7137925769886598557
+    second: Harmonidome Keys Separate_17
+  - first:
+      213: -3153567055074631706
+    second: Harmonidome Keys Separate_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 648
+        width: 992
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be89ad8345922e0800000000000000
+      internalID: -2150094743930344679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1087
+        width: 247
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd836d7946af2e630800000000000000
+      internalID: 3954998732735789279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_2
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1063
+        width: 189
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9dc132e933d6a0800000000000000
+      internalID: -6425728599666614502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_3
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1070
+        width: 233
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd78254c0373380800000000000000
+      internalID: -8991664511265547022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 859
+        width: 262
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3accc6ad823d2a0800000000000000
+      internalID: -6713977700885945349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_5
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 792
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aed9ee426197da0800000000000000
+      internalID: -5946697485088069051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_6
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 789
+        width: 239
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fcf0538cf724c30800000000000000
+      internalID: 4342173488598994824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_7
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 724
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460b33d2be953220800000000000000
+      internalID: 2465050861940442689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_8
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 722
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea956a9635cf8450800000000000000
+      internalID: 6093305659164826346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 481
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071384c86089fb20800000000000000
+      internalID: 3168705000293734150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 481
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f1a2fd45b1dfee0800000000000000
+      internalID: -1225793472239624442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 416
+        width: 224
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb36bca1f1106b0800000000000000
+      internalID: -5331946283888034909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_12
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 419
+        width: 257
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7047365055957540800000000000000
+      internalID: 5005070733168558202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_13
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 496
+        width: 78
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb333ed87ca81420800000000000000
+      internalID: 2601018419930414075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_14
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 496
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e65469ffafb9a0800000000000000
+      internalID: -6215055475082862224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_15
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 501
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8e27a1ef4c47770800000000000000
+      internalID: 8607721383456336121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_16
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 500
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310256aae4ca63b20800000000000000
+      internalID: 3113865646239457299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_17
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 500
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95823b5ba10f0360800000000000000
+      internalID: 7137925769886598557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harmonidome Keys Separate_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 841
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd6e2c8774c34d0800000000000000
+      internalID: -3153567055074631706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Harmonidome Keys Separate_0: -2150094743930344679
+      Harmonidome Keys Separate_1: 3954998732735789279
+      Harmonidome Keys Separate_10: -1225793472239624442
+      Harmonidome Keys Separate_11: -5331946283888034909
+      Harmonidome Keys Separate_12: 5005070733168558202
+      Harmonidome Keys Separate_13: 2601018419930414075
+      Harmonidome Keys Separate_14: -6215055475082862224
+      Harmonidome Keys Separate_15: 8607721383456336121
+      Harmonidome Keys Separate_16: 3113865646239457299
+      Harmonidome Keys Separate_17: 7137925769886598557
+      Harmonidome Keys Separate_18: -3153567055074631706
+      Harmonidome Keys Separate_2: -6425728599666614502
+      Harmonidome Keys Separate_3: -8991664511265547022
+      Harmonidome Keys Separate_4: -6713977700885945349
+      Harmonidome Keys Separate_5: -5946697485088069051
+      Harmonidome Keys Separate_6: 4342173488598994824
+      Harmonidome Keys Separate_7: 2465050861940442689
+      Harmonidome Keys Separate_8: 6093305659164826346
+      Harmonidome Keys Separate_9: 3168705000293734150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
