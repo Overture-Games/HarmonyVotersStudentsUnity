@@ -91,7 +91,7 @@ public class StudentSessionManager : MonoBehaviour
                     if (response.gameStarted)
                     {
                         Debug.Log("Game has started, switching to GameScene.");
-                        SceneManager.LoadScene("GameScene");
+                        SceneTransition.LoadSceneAsync("GameScene");
                         StopCoroutine(CheckGameStarted()); 
                     }
                 }

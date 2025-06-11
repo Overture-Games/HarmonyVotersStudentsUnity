@@ -5,6 +5,6 @@ public class RestartButton : MonoBehaviour
 {
     public void OnRestartButtonClicked()
     {
-        SceneManager.LoadScene(2);
+        SceneTransition.LoadSceneAsync(2);
     }
 }
