@@ -2653,22 +2653,22 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 2f378cefec49fb34e9684df2b3baafaa, type: 3}
   - {fileID: 8300000, guid: cf234d9c6f717ed42804e7820a13e7af, type: 3}
   bassVariationsHarmony:
-  - {fileID: 8300000, guid: b3b437afb6f5a9545b0da1841731bf33, type: 3}
-  - {fileID: 8300000, guid: cc561fbb78cf70d4084f18f23c32b7f7, type: 3}
-  - {fileID: 8300000, guid: 84a6bf57cbabf0647b51310dec8c41c9, type: 3}
-  - {fileID: 8300000, guid: 8ac8a29c6e66f454086b062c03a9eea1, type: 3}
+  - {fileID: 8300000, guid: cc13c441ad7bbdd42a419a63db9c22ff, type: 3}
+  - {fileID: 8300000, guid: 8cca1e11989fe9c4a9c000dddf288929, type: 3}
+  - {fileID: 8300000, guid: a529d7fdb137b3146bc8240ab0411bad, type: 3}
+  - {fileID: 8300000, guid: c69eb1460d00df34ca368a1178fcc93c, type: 3}
   chordsVariationsHarmony:
-  - {fileID: 8300000, guid: 769bb69a4307eb44396b7a3ddc9eb858, type: 3}
-  - {fileID: 8300000, guid: 28a24eee73153164e82cd1e2a1727e05, type: 3}
-  - {fileID: 8300000, guid: f4f7f24ac11e98443a1f0f601847364c, type: 3}
-  - {fileID: 8300000, guid: 4339a75a4b64c9546b5e708f3ec1c93d, type: 3}
+  - {fileID: 8300000, guid: e7161122f037a0d44be524a7ceb7b023, type: 3}
+  - {fileID: 8300000, guid: 80f6421704f21d041b70f164d6db29e8, type: 3}
+  - {fileID: 8300000, guid: bde2a075b95e91e4c8fc42ecff342cf4, type: 3}
+  - {fileID: 8300000, guid: 888b1f3d435026f40b3fd35aac98b735, type: 3}
   melodyVariationsHarmony:
-  - {fileID: 8300000, guid: 3a028c8727012eb47a747dac640655fe, type: 3}
-  - {fileID: 8300000, guid: c9c389edd2710f14b9c7b11cf3d9dfb2, type: 3}
-  - {fileID: 8300000, guid: 957d35758654c884294496052c236aaf, type: 3}
-  - {fileID: 8300000, guid: 6abc25f92171e6944b4cced428224830, type: 3}
+  - {fileID: 8300000, guid: 34249c98e67c7014fb87cf974f26ddc2, type: 3}
+  - {fileID: 8300000, guid: 96d1eb980d1395f4a9dd80f37f910107, type: 3}
+  - {fileID: 8300000, guid: a0a26d645e7218e4891533afcbdc8e95, type: 3}
+  - {fileID: 8300000, guid: b7b851cc34ad66a4b8f8b0e2e986e365, type: 3}
   defaultDrumsInstruments: {fileID: 8300000, guid: e9a344e06d743be4cafbad1b26f20bc8, type: 3}
-  defaultDrumsHarmony: {fileID: 8300000, guid: d0a30836932b9974cb3431b6465b62bd, type: 3}
+  defaultDrumsHarmony: {fileID: 8300000, guid: c17708caa4a69eb4c828ba4c94a7a87e, type: 3}
   bassButtons:
   - {fileID: 768935231}
   - {fileID: 1004383557}
@@ -2686,6 +2686,9 @@ MonoBehaviour:
   - {fileID: 107585746}
   playButton: {fileID: 684097828}
   doneButton: {fileID: 1997017995}
+  playButtonText: {fileID: 640409516}
+  exporterMono: {fileID: 1735040503}
+  platformHandler: {fileID: 1735040502}
 --- !u!1 &694017741
 GameObject:
   m_ObjectHideFlags: 0
@@ -5353,6 +5356,7 @@ RectTransform:
   m_Children:
   - {fileID: 1569180567}
   - {fileID: 1805477015}
+  - {fileID: 1735040501}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -5360,6 +5364,70 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1735040500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1735040501}
+  - component: {fileID: 1735040503}
+  - component: {fileID: 1735040502}
+  m_Layer: 5
+  m_Name: Exporter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1735040501
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735040500}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1725983801}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1735040502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735040500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a779a34f7ca8ab4cb3fb1583f9e2337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1735040503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735040500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b6201b65058e443094096379f3a0602, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetSampleRate: 44100
+  targetChannels: 2
+  bitsPerSample: 16
 --- !u!1001 &1788159572
 PrefabInstance:
   m_ObjectHideFlags: 0
