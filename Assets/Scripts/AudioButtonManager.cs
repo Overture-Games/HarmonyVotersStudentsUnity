@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Networking;
 using System.Diagnostics;
 using TMPro;
+using Overture.Achievements;
 
 public class MusicMixer : MonoBehaviour
 {
@@ -178,6 +179,8 @@ public class MusicMixer : MonoBehaviour
 
     private void OnDoneClicked()
     {
+        CheckForAchievements();
+
         var export = new AudioExport();
         foreach (var item in audioSources.Values)
         {
@@ -194,10 +197,10 @@ public class MusicMixer : MonoBehaviour
     }
 
     private string GenerateFileName()
-        {
-            var timestamp = System.DateTime.Now.ToString("MMdd_HHmm");
-            return $"Harmonidome_{selectedCombination}_{timestamp}.wav";
-        }
+    {
+        var timestamp = System.DateTime.Now.ToString("MMdd_HHmm");
+        return $"Harmonidome_{selectedCombination}_{timestamp}.wav";
+    }
 
     int CombinationToIndex(string combination)
     {
@@ -211,5 +214,20 @@ public class MusicMixer : MonoBehaviour
         }
 
         return -1;
+    }
+
+    private void CheckForAchievements()
+    {
+        const string gameId = "harmonidome";
+        Achievement.Earn(gameId, gameId + "__export");
+
+        if (selectedCombination == "AAA")
+            Achievement.Earn(gameId, gameId + "__all-a");
+        if (selectedCombination == "BBB")
+            Achievement.Earn(gameId, gameId + "__all-b");
+        if (selectedCombination == "CCC")
+            Achievement.Earn(gameId, gameId + "__all-c");
+        if (selectedCombination == "DDD")
+            Achievement.Earn(gameId, gameId + "__all-d");
     }
 }
