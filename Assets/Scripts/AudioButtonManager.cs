@@ -6,6 +6,8 @@ using UnityEngine.Networking;
 using System.Diagnostics;
 using TMPro;
 using Overture.Achievements;
+using Overture.Export;
+using System;
 
 public class MusicMixer : MonoBehaviour
 {
@@ -17,9 +19,6 @@ public class MusicMixer : MonoBehaviour
     public Button[] bassButtons, chordsButtons, melodyButtons;
     public Button playButton, doneButton;
     [SerializeField] private TMP_Text playButtonText;
-
-    [SerializeField] private AudioExporterMono exporterMono;
-    [SerializeField] private AudioPlatformHandler platformHandler;
 
     private Dictionary<string, AudioSource> audioSources;
     private Dictionary<string, AudioClip[]> audioClips;
@@ -181,19 +180,28 @@ public class MusicMixer : MonoBehaviour
     {
         CheckForAchievements();
 
+        _ = ExportAsync();
+    }
+
+    private async Awaitable ExportAsync()
+    {
         var export = new AudioExport();
         foreach (var item in audioSources.Values)
         {
             if (item.clip)
                 export.AddClip(item.clip, 0);
         }
-        exporterMono.ExportAudioToFile(export, GenerateFileName(), OnComplete);
+        
+        var res = await AudioExport.ToFileAsync(export);
+        if (!res.Success) return;
 
-        void OnComplete(bool didSucceed, string filePath)
-        {
-            if (!didSucceed) return;
-            platformHandler.HandleExportedFile(filePath, "harmonidome", "daw-composition", "user-created");
-        }
+        var config = new AudioSave.Config(
+            title: "Harmonidome Single-Player Composition",
+            gameId: "harmonidome",
+            bpm: 117,
+            tags: new[] { "daw-composition", "user-created" }
+        );
+        await AudioSave.HandleFileAsync(res.PathOrError, config);
     }
 
     private string GenerateFileName()

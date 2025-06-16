@@ -9,6 +9,15 @@
       },
       "hash": "d4f6ee520c0c7da60721114ee5bd9b7ea70170bd"
     },
+    "com.overture.audio-export": {
+      "version": "https://github.com/Overture-Games/Overture-Audio-Export.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "3e8c0f590fbd7cc7be828b02d1fbd97492f8a321"
+    },
     "com.unity.2d.animation": {
       "version": "10.2.0",
       "depth": 1,
